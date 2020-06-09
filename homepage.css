@@ -1,0 +1,38 @@
+img.card_image{
+	max-width:65%;
+	max-height:65%;
+	display: block;
+	margin: 0 auto;
+}
+
+.title_block_text{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.title_block{
+	color: black;
+	border:2px #abca54 solid;
+	margin: 0 20%;
+}
+
+.body_text{
+	margin: 0 10%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.footer{
+	text-align: center;
+	font-size: 10px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h2.body_text{
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.image_description{
+	font-size: 15px;
+	text-align: center;
+}
